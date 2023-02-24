@@ -1,0 +1,8 @@
+{
+  "Id": 1,
+  "Name": "Bitty B",
+  "WeightInLbs": 10.5,
+  "Color": "Black",
+  "Gender": "Male",
+  "GoesOutDoors": true
+}
